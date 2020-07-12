@@ -1,3 +1,41 @@
 body {
-    background-color: blue;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  background-color: #e4f9f5;
+
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.botcloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
 }
